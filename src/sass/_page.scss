@@ -1,0 +1,14 @@
+.page {
+    background: var(--main-background-color);
+    .wrapper {
+        max-width: 1300px;
+        margin: 0 auto;
+        background: white;
+        padding: 5em 6em;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        color: #2f3461;
+        min-height: 100vh;
+    }
+}

@@ -1,0 +1,28 @@
+.information {
+    max-width: 200px;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+
+    h6 {
+        margin-bottom: 0.7em;
+        font-weight: 600;
+    }
+
+    p {
+        margin-bottom: 0.7em;
+        font-size: 0.85em;
+        i {
+            display: inline-block;
+            margin-right: 1em;
+        }
+    }
+    .town {
+        font-size: 0.6em;
+        font-weight: 600;
+        color: #66698a;
+    }
+
+    span {
+        font-weight: bold;
+    }
+}
